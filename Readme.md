@@ -30,7 +30,11 @@ In my case, I was trying to determine if water had entered my basement, so I put
 The Code 
 ========
 The code requires you to have a gmail account to send the email. It will store your gmail password in plaintext, which is insecure. I suggest you make a dummy account for your sensor. Name it something cool; get creative. Feel free to modify the code however you'd like. Make the speaker send S.O.S. in morse code. Have the Raspberry Pi update a web server when it detects water. Go nuts.  
+<<<<<<< HEAD
 The code is also available in a gist: Available here: https://gist.github.com/cmchap/5480533
+=======
+The code is also available in a gist: https://gist.github.com/cmchap/5480533
+>>>>>>> added readme
 
 Changelog 
 ============= 
