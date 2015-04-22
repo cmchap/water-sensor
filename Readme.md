@@ -24,7 +24,10 @@ The Water Sensor
 ### Making the sensor 
 The sensor is made of two pieces of copper tape stuck to a piece of rigid plastic. Put the copper strips parallel, and close together on the same side of the plastic. Solder a lead to each piece of copper. I used speaker wire as the leads because it is cheap to get in long lengths. The longer the leads, the farther from the Raspberry Pi your sensor can be. 
 
-![Image of the assembled water sensor](water_sensor_image.jpg)
+<p align="center">
+  <img src="water_sensor_image.jpg" alt="Image of the assembled water sensor" style="max-width: 500px;"  />
+</p>
+
 
 ### Orienting and placing the sensor 
 In my case, I was trying to determine if water had entered my basement, so I put the copper side down on the floor with a small weight on top of it. When water bridges between the two copper strips, it will close the circuit, and set off the alarm. 
